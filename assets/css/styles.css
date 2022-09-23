@@ -117,6 +117,15 @@ table th {
     color: var(--primary-color);
 }
 
+.footer-gallery{
+    background: var(--primary-color);
+    color: var(--white-color);
+}
+
+.footer-gallery p a{
+    color: var(--white-color);
+}
+
 .main-content {
     max-width: 120rem;
     margin: 0 auto;
